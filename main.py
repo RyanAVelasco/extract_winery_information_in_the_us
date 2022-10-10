@@ -4,7 +4,6 @@ from time import localtime
 
 from bs4 import BeautifulSoup
 from cv2 import getTickCount, getTickFrequency
-import pandas as pd
 
 
 def display_datetime():
